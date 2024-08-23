@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="Q2cfNk7EP2vvVs7lK4RH-2" value="&lt;b style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;نه&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-5" vertex="1" connectable="0">
           <mxGeometry x="0.3048" y="22" relative="1" as="geometry">
-            <mxPoint x="-12" y="2" as="offset" />
+            <mxPoint x="-32" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="کاربر یک&lt;div&gt;&amp;nbsp;دانشگاه؟&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
